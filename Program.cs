@@ -2,7 +2,7 @@
 
 namespace Exercicios_Propostos_P2
 {
-
+    // Teste para subir o github
     class Program
     {
         static void Main(string[] args)
